@@ -1,0 +1,16 @@
+h1 {
+    /* background-color: red; */
+}
+
+footer {
+    color: #fff;
+    background: #000;
+    display: block;
+    text-align: center;
+    margin-top: 60px;
+    padding: 8px 0;
+}
+
+footer p {
+    margin: 0;
+}
